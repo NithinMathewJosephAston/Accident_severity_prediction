@@ -8,7 +8,7 @@ dataset to study the problem, and perform any pre-processing steps (data transfo
 normalization, subset selection, etc.) necessary before a statistical or a machine learning model can be
 constructed.
 
-The following steps need to be present:
+The following steps aree present:
 
 (1) Introduction: business objective and its context (the practical problem that can be later solved
 with a regression or classification model)
@@ -31,7 +31,7 @@ The purpose of the assignment is
 to implement and evaluate several alternative predictive models to address the problem selected in the
 group assignment.
 
-The following steps need to be present:
+The following steps are present:
 
 (1) Introduction: business objective
 
