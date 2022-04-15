@@ -1,7 +1,7 @@
 # Accident_severity_prediction
 
 Group assignment task:
-
+=====================
 The purpose of the assignment is to
 select a business problem that can be solved with the help of predictive modelling techniques, select a
 dataset to study the problem, and perform any pre-processing steps (data transformation, data cleaning,
@@ -26,7 +26,7 @@ outliers, etc.)
 
 
 Individual assignment task:
-
+==========================
 The purpose of the assignment is
 to implement and evaluate several alternative predictive models to address the problem selected in the
 group assignment.
